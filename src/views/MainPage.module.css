@@ -1,0 +1,26 @@
+.cardBlock{
+    border: 0 !important;
+
+}
+.carousel{
+    position: fixed !important;
+    margin:auto;
+    left:0;
+    right:0;
+}
+.cardTitle{
+    font-weight: bold;
+    font-size: 32px;
+    text-align: center;
+}
+.titleIcon{
+    width: 40px;
+    align-items: center;
+}
+
+.carouselContent{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 16px;
+}
